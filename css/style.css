@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.main {
+	max-width: 1024px;
+	margin: auto;
+}
+
+div {
+	margin: 15px 0;
+}
+
+
+.my_foto {
+	height: 70px;
+	width: 70px;
+}
